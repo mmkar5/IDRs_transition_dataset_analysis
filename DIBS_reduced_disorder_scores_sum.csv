@@ -1,0 +1,452 @@
+ID,metapredict_scores
+Myc proto-oncogene protein_DI1000001_A,0.8767142857142858
+Protein E6_DI1020001_B,0.8578181818181818
+Early E1A 32 kDa protein_DI1020002_B,0.5790952380952381
+Transcription factor p65_DI1000005_A,0.5756153846153846
+Histone H3_DI1010001_B,0.8671428571428572
+Geminin_DI1000006_B,0.86575
+E3 SUMO-protein ligase PIAS2_DI1000007_B,0.82092
+Lymphocyte cytosolic protein 2_DI1010002_B,0.8821818181818183
+Cellular tumor antigen p53_DI1000009_B,0.7573333333333333
+Tegument protein VP16_DI1120001_B,0.5773714285714285
+T-cell surface glycoprotein CD3 epsilon chain_DI1000010_B,0.7557499999999999
+DNA repair protein complementing XP-A cells_DI1000011_B,0.7437857142857143
+Middle T antigen_DI1020003_P,0.6380909090909092
+T-cell surface glycoprotein CD3 zeta chain_DI1000012_B,0.7989285714285714
+DNA-directed RNA polymerase II subunit RPB1_DI1000013_B,0.8562307692307692
+Adenomatous polyposis coli protein_DI1000014_B,0.8476315789473684
+Splicing factor 1_DI1000015_B,0.8536923076923078
+RNA polymerase II subunit A C-terminal domain phosphatase_DI1000016_B,0.8463373493975903
+Nucleoprotein_DI1400001_B,0.44125
+DNA repair protein complementing XP-C cells_DI1000017_B,0.32005882352941173
+Signal transducer and activator of transcription 1-alpha/beta_DI1010005_B,0.744688888888889
+Adapter molecule crk_DI1010006_B,0.831076923076923
+Signal transducer and activator of transcription 2_DI1010007_B,0.7400350877192983
+Histone H3.2_DI1000018_B,0.8404285714285715
+Activating transcription factor 7-interacting protein 1_DI1000019_B,0.8916511627906977
+Histone H4_DI1000020_B,0.7166
+Death domain-associated protein 6_DI1000021_B,0.7402272727272727
+Histone H3.1_DI1000022_B,0.875
+Nuclear transcription factor RelA_DI1100001_B,0.6287428571428572
+Bcl2 antagonist of cell death_DI1100002_B,0.5096666666666666
+Hypoxia-inducible factor 1-alpha_DI1000023_A,0.5678333333333333
+Hypoxia-inducible factor 1-alpha_DI1010010_B,0.5702549019607843
+Cbp/p300-interacting transactivator 2_DI1010013_A,0.8098181818181818
+Histone H4_DI1100003_P,0.8824500000000001
+Cytoplasmic dynein 1 intermediate chain_DI1100004_C,0.8213125
+Amyloid beta A4 protein_DI1000027_B,0.7135428571428571
+T-cell surface glycoprotein CD4_DI1000028_D,0.4481304347826087
+T-cell surface glycoprotein CD3 zeta chain_DI1020006_B,0.6515
+Protein CASC5_DI1000032_E,0.680433962264151
+RING1 and YY1-binding protein_DI1000035_B,0.4265135135135135
+Secreted effector protein EspF(U)_DI1020007_B,0.6073541666666666
+Polyglutamine-binding protein 1_DI1000036_B,0.8742558139534883
+Neural Wiskott-Aldrich syndrome protein_DI1000037_B,0.9170833333333334
+Nuclear inhibitor of protein phosphatase 1_DI1000039_B,0.7365818181818182
+Histone-lysine N-methyltransferase 2A_DI1000041_A,0.7554285714285714
+Calreticulin_DI1000043_B,0.6820833333333334
+Envelope protein (Fragment)_DI1120002_P,0.7152222222222222
+Troponin I  fast skeletal muscle_DI1110001_B,0.5216470588235295
+Eukaryotic peptide chain release factor GTP-binding subunit ERF3A_DI1010022_A,0.7694736842105264
+Adenomatous polyposis coli protein_DI1000044_B,0.5849375
+Cbp/p300-interacting transactivator 2_DI1010023_A,0.19634090909090907
+Histone H3_DI1100006_P,0.863
+DNA repair protein RAD2_DI1100007_B,0.8513653846153846
+Vacuolar protein sorting-associated protein 27_DI1100008_A,0.3262083333333333
+Epstein-Barr nuclear antigen 2_DI1120003_B,0.5418461538461539
+DNA repair protein RAD4_DI1100009_B,0.8540952380952381
+Antitoxin CcdA_DI2200001_C,0.3184166666666666
+Histone H3.3_DI1110003_B,0.8453333333333333
+Transcription factor p65_DI1010024_B,0.6573030303030303
+DNA repair protein complementing XP-C cells_DI1000045_A,0.846576923076923
+Troponin I  fast skeletal muscle_DI1000046_I,0.4775294117647059
+Adenomatous polyposis coli protein_DI1000049_C,0.6895081967213115
+Axin-1_DI1010025_B,0.5358823529411765
+Axin-1_DI1000050_B,0.25605555555555554
+E3 ubiquitin-protein ligase RAD18_DI1000052_B,0.3192962962962963
+Troponin I_DI1100012_B,0.32687499999999997
+Proheparin-binding EGF-like growth factor_DI1010030_B,0.8030416666666667
+Histone H3_DI1010032_B,0.7502307692307693
+Polyadenylate-binding protein-interacting protein 2_DI1000060_B,0.6672727272727272
+Glycoprotein_DI1020009_C,0.8505384615384616
+Histone H2A type 1_DI1000062_E,0.8883333333333333
+Trinucleotide repeat-containing gene 6C protein_DI1000063_C,0.6659444444444444
+Troponin I  cardiac muscle_DI1000064_I,0.3835
+Bcl-2-modifying factor_DI1100014_B,0.22633333333333333
+Histone H4_DI1000067_B,0.8548333333333332
+cAMP-dependent protein kinase inhibitor alpha_DI1010034_A,0.7132
+Peroxisomal targeting signal 1 receptor_DI1000070_B,0.3686
+Peroxisomal targeting signal 1 receptor_DI1000071_B,0.46553333333333335
+STAM-binding protein (Fragment)_DI1000072_B,0.8088571428571428
+Cellular tumor antigen p53_DI1000073_B,0.8935333333333334
+General control protein GCN4_DI1100015_B,0.7474705882352941
+Gap junction alpha-1 protein_DI1100016_B,0.7758571428571429
+DNA-directed RNA polymerase II subunit RPB1_DI1000075_B,0.8800476190476191
+Layilin_DI1110006_B,0.7018
+Mothers against decapentaplegic homolog 3_DI1000079_B,0.835
+Histone H3.1_DI1000080_B,0.85868
+RE1-silencing transcription factor_DI1010036_B,0.5429999999999999
+Mothers against decapentaplegic homolog 1_DI1000085_B,0.8132
+Histone deacetylase complex subunit SAP25_DI1100018_B,0.7312622950819672
+Max dimerization protein 1_DI1010037_A,0.2699375
+HMG box-containing protein 1_DI1100019_A,0.6740869565217391
+PHD finger protein 12_DI1010038_A,0.5550444444444445
+Histone H3  embryonic_DI1120005_C,0.847
+Regulatory protein SIR3_DI2100001_C,0.2857777777777778
+Protein CBFA2T1_DI2010002_C,0.18738709677419355
+Antitoxin MazE_DI2200002_C,0.7594666666666666
+Nucleoporin NUP1_DI3100001_G,0.6416
+Hypoxia-inducible factor 1-alpha_DI3000001_D,0.7094705882352941
+Protein CASC3_DI3000003_T,0.7244933333333333
+Neutrophil cytosol factor 1_DI1000090_P,0.7098125
+E3 SUMO-protein ligase RanBP2_DI2000003_D,0.30927536231884056
+E3 SUMO-protein ligase RanBP2_DI2000004_D,0.3817076923076923
+Tumor protein p73_DI1000092_B,0.645
+Core histone macro-H2A.1_DI1000093_M,0.9380666666666666
+T-cell surface antigen CD2_DI1000094_B,0.8634545454545454
+Low-density lipoprotein receptor_DI1010041_Q,0.7732857142857144
+Glycophorin-C_DI1000095_B,0.8135833333333333
+Polyadenylate-binding protein-interacting protein 1_DI1000099_B,0.7866818181818183
+Uracil-DNA glycosylase_DI1000100_B,0.439625
+SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily A-like protein 1_DI1000101_B,0.26892307692307693
+Interleukin-4 receptor subunit alpha_DI1000102_B,0.7081818181818181
+NKG2-A/NKG2-B type II integral membrane protein_DI1000103_B,0.5040666666666667
+SHC-transforming protein 1_DI1000104_I,0.7417692307692308
+Cadherin-5_DI1100022_B,0.6438125
+GRB2-associated-binding protein 2_DI1000105_B,0.8052666666666667
+Sequestosome-1_DI1100023_B,0.8145882352941177
+IST1 homolog_DI1000108_B,0.5275833333333334
+Charged multivesicular body protein 2b_DI1000109_B,0.34721052631578947
+WD repeat and FYVE domain-containing protein 3_DI1000110_B,0.6239285714285714
+Ataxin-2_DI1000111_B,0.8083529411764706
+Transcription factor 12_DI1000114_B,0.5656111111111112
+Adenomatous polyposis coli protein_DI1100026_B,0.78225
+Paxillin_DI1010042_A,0.23690000000000003
+Paxillin_DI1000116_K,0.46025
+Paxillin_DI1010043_B,0.425
+ELKS/Rab6-interacting/CAST family member 1_DI1100027_B,0.7986363636363637
+Antitoxin phd_DI1400002_B,0.3846086956521739
+FYVE and coiled-coil domain-containing protein 1_DI1010045_E,0.6429230769230769
+Charged multivesicular body protein 1a_DI1000123_B,0.4756470588235294
+Nucleoplasmin_DI1110008_B,0.8474210526315789
+Nucleoporin NUP2_DI1100029_D,0.7913333333333333
+Eukaryotic translation initiation factor 4E-binding protein 1_DI1000125_B,0.49924999999999997
+Transcription factor 7-like 2_DI1000126_E,0.8178974358974359
+Protease A inhibitor 3_DI1100030_B,0.5927241379310345
+Ribonucleoside-diphosphate reductase 1 subunit beta_DI1200001_D,0.7853125
+Ciboulot  isoform A_DI1110010_B,0.49695999999999996
+Beta-arrestin-1_DI1000127_P,0.541
+Bcl-2-like protein 11_DI1000128_B,0.13934615384615384
+T-cell surface glycoprotein CD3 epsilon chain_DI1000129_B,0.7712777777777778
+Colicin-E9_DI1200002_E,0.8819333333333332
+T-cell surface glycoprotein CD3 zeta chain_DI1000130_B,0.6917894736842105
+Wiskott-Aldrich syndrome protein_DI1000131_B,0.6564915254237289
+Transcription factor 7-like 1-A_DI1010047_B,0.8679607843137255
+ADP-ribosylation factor-binding protein GGA1_DI1010048_B,0.18790243902439024
+Eukaryotic initiation factor 4F subunit p150_DI1100033_B,0.23818367346938774
+Synaptosomal-associated protein 25_DI1020012_B,0.1946101694915254
+Growth factor receptor-bound protein 14_DI1000132_B,0.5634324324324325
+Protein phosphatase inhibitor 2_DI1110011_I,0.6430886075949367
+Core histone macro-H2A.1_DI2010003_M,0.8419375
+Protein CASC5_DI1000134_Y,0.5184761904761904
+Twist-related protein 1_DI1000135_A,0.9063333333333333
+Pogo transposable element with ZNF domain_DI1000136_A,0.8286250000000001
+Splicing factor 3B subunit 1_DI1000137_A,0.48627659574468085
+Eukaryotic translation initiation factor 3 subunit J_DI1000138_B,0.8663636363636363
+Ribonucleoside-diphosphate reductase 1 subunit alpha_DI1200003_B,0.8580800000000001
+Splicing factor U2AF 65 kDa subunit_DI1100034_B,0.44051724137931036
+C-X-C chemokine receptor type 4_DI2010004_B,0.7827631578947368
+C-X-C chemokine receptor type 4_DI1000139_B,0.7861578947368421
+Cellular tumor antigen p53_DI2010005_X,0.7908636363636364
+F-actin-capping protein subunit alpha-1_DI2010006_X,0.5930833333333333
+Cyclin-dependent kinase inhibitor 1_DI3010001_X,0.7261363636363636
+Catenin beta-1_DI1100035_B,0.5018378378378379
+Polymerase cofactor VP35_DI1400003_E,0.6258928571428571
+Aminoacyl tRNA synthase complex-interacting multifunctional protein 2_DI4000001_C,0.7471388888888889
+MKL/myocardin-like protein 1_DI1110012_F,0.5806428571428571
+Serine/threonine-protein kinase PAK 6_DI1000140_B,0.6611714285714286
+ERBB receptor feedback inhibitor 1_DI1000141_C,0.7375555555555555
+Cytoplasmic dynein 1 intermediate chain_DI2100002_C,0.7517333333333334
+Interleukin-6 receptor subunit beta_DI1100036_B,0.7298181818181818
+Cytoplasmic dynein 1 intermediate chain 2_DI2110001_I,0.6927333333333333
+Cytoplasmic dynein 1 intermediate chain 2_DI2110002_I,0.7601666666666667
+Acinus  isoform A_DI2010007_B,0.299125
+Transcriptional activator cubitus interruptus_DI1010049_C,0.8221666666666666
+Puckered  isoform A_DI1010050_C,0.8861875
+Protein hir1_DI2100004_C,0.5852413793103449
+Integrin beta-2_DI1000145_T,0.6992857142857143
+Hirudin variant-1_DI2110003_I,0.4794307692307692
+Catenin beta-1_DI2000008_C,0.8205769230769231
+Calpastatin_DI2100005_C,0.6987272727272728
+Zinc finger FYVE domain-containing protein 9_DI1000147_B,0.843219512195122
+Anti sigma factor FlgM_DI1200004_B,0.35986363636363633
+Transcription initiation factor TFIID subunit 1_DI1110013_A,0.3958955223880597
+Beta-catenin-interacting protein 1_DI1010051_B,0.3991728395061728
+Transcription factor E2F2_DI1000148_C,0.6488888888888888
+Nuclear pore complex protein Nup50_DI1100038_B,0.6381739130434783
+Cyclin-dependent kinase inhibitor 1B_DI2000009_C,0.41133333333333333
+CREB-binding protein_DI1000149_C,0.2631914893617021
+Myelin basic protein_DI2010009_P,0.8812727272727273
+Myelin basic protein_DI2000010_C,0.7354499999999999
+Ribonuclease E_DI2200003_B,0.5651111111111111
+Heterogeneous nuclear ribonucleoprotein A1_DI1000152_D,0.8570408163265305
+PRKC apoptosis WT1 regulator protein_DI1000153_B,0.8787333333333334
+Retinoblastoma-binding protein 5_DI1100039_C,0.8464615384615384
+Pre-mRNA polyadenylation factor FIP1_DI1100040_D,0.26407692307692304
+Fibronectin-binding protein BBK32_DI1020014_B,0.7504375
+Fibronectin binding protein_DI1020016_B,0.8504999999999999
+Glutamate receptor ionotropic  NMDA 2A_DI1000154_E,0.7224375
+Colicin-A_DI1210001_B,0.7681682242990654
+Vinculin_DI1000155_B,0.8597272727272728
+1-phosphatidylinositol 4 5-bisphosphate phosphodiesterase gamma-1_DI1100041_B,0.7384444444444445
+Tubulin alpha-1B chain_DI1000158_B,0.7063888888888888
+Krueppel-like factor 1_DI1000159_B,0.578875
+Ubiquitin-like modifier-activating enzyme ATG7_DI1100042_B,0.6225
+Pre-mRNA-splicing factor CWC26_DI1100043_B,0.6756923076923077
+26S proteasome non-ATPase regulatory subunit 4_DI1000160_S,0.5961111111111111
+DNA replication factor Cdt1_DI1000161_B,0.19555172413793104
+DNA polymerase delta subunit 3_DI1000162_B,0.7641875
+DNA polymerase delta subunit 3_DI3000005_B,0.6694666666666667
+ATP synthase subunit alpha_DI1210003_A,0.2604090909090909
+DNA polymerase kappa_DI1100044_B,0.80812
+Optineurin_DI1000163_B,0.7451764705882352
+Charged multivesicular body protein 6_DI1000164_B,0.8165625
+Peroxiredoxin-4_DI1110014_C,0.7506999999999999
+Acetylcholine receptor subunit alpha_DI1110015_B,0.5894736842105263
+Phosphatidylinositol 3-kinase regulatory subunit alpha_DI1000165_A,0.8915
+Cation-independent mannose-6-phosphate receptor_DI1000168_C,0.7643076923076924
+La-related protein 4_DI1000169_B,0.6587142857142857
+Protein PML_DI1000172_B,0.8746896551724138
+Proto-oncogene tyrosine-protein kinase receptor Ret_DI1100046_C,0.6853076923076924
+ADP-ribosylation factor-binding protein GGA1_DI1000175_C,0.6117857142857143
+Leupaxin_DI1000176_C,0.29410526315789476
+Leupaxin_DI1010055_B,0.35055000000000003
+Cation-dependent mannose-6-phosphate receptor_DI1000177_E,0.8493076923076923
+Pleckstrin homology domain-containing family M member 1_DI1000180_B,0.7173571428571428
+Peroxisomal membrane protein PEX14_DI1100047_P,0.7993571428571429
+Signaling lymphocytic activation molecule_DI1000181_B,0.5852727272727273
+Sortilin_DI1000182_C,0.8223846153846155
+Apoptosis regulator BAX_DI1010059_C,0.2651935483870968
+Mothers against decapentaplegic homolog 7_DI1000187_B,0.8096428571428572
+Mothers against decapentaplegic homolog 7_DI1000188_B,0.8065333333333334
+Peroxisomal biogenesis factor 19_DI1000191_B,0.4775833333333333
+Serine/threonine-protein kinase Chk2_DI1010060_C,0.7220909090909091
+Gag-Pro polyprotein_DI1020019_B,0.7923333333333332
+Arrestin domain-containing protein 3_DI1000192_B,0.7788461538461539
+Amiloride-sensitive sodium channel subunit alpha_DI1000193_P,0.7816363636363637
+Matrix protein VP40_DI1020020_B,0.7351666666666666
+Ribosomal protein S6 kinase alpha-1_DI2000012_C,0.675290909090909
+Ribosomal protein S6 kinase alpha-1_DI1000194_B,0.5836666666666667
+Chromobox protein homolog 7_DI1000195_B,0.4234666666666667
+Microtubule-associated protein tau_DI1000196_A,0.86
+Signal transducer and activator of transcription 6_DI1000197_B,0.5731428571428572
+Bcl-2 homologous antagonist/killer_DI1020021_B,0.6386538461538461
+Calcyclin-binding protein_DI1000198_B,0.8393846153846154
+Ubiquitin carboxyl-terminal hydrolase 19_DI1000199_C,0.8150714285714286
+Protein commissureless 1_DI1100051_P,0.7200909090909091
+Diablo homolog  mitochondrial_DI2000014_P,0.8542666666666666
+Histone H3_DI1010061_C,0.8468333333333333
+Calcyclin-binding protein_DI2110004_C,0.3696774193548387
+Tyrosine-protein kinase SYK_DI1010062_B,0.8136153846153846
+Regulator of nonsense transcripts 2_DI1000203_D,0.4156382978723404
+Melanophilin_DI1010063_B,0.7967692307692308
+Salivary anti-thrombin peptide anophelin_DI2010010_I,0.7904918032786885
+Calvin cycle protein CP12-2  chloroplastic_DI4100001_G,0.6839358974358974
+Bcl-2-binding component 3_DI1100052_B,0.15730769230769232
+Bcl-2-binding component 3_DI1100053_B,0.17961538461538462
+Phorbol-12-myristate-13-acetate-induced protein 1_DI1100054_B,0.2917692307692308
+Phorbol-12-myristate-13-acetate-induced protein 1_DI1100055_A,0.24173076923076925
+CP12_DI4200001_D,0.7104
+Prokaryotic ubiquitin-like protein Pup_DI2200004_B,0.3766363636363636
+E3 ubiquitin-protein ligase Itchy homolog_DI1010064_T,0.92376
+Integrin beta-7_DI1000204_C,0.7760645161290323
+DNA protection during starvation protein_DI1200005_B,0.7126363636363636
+Serine/threonine-protein kinase 3_DI1000206_G,0.8437741935483871
+Annexin A2_DI2010011_C,0.5237857142857143
+Circadian clock protein kinase KaiC_DI2200005_C,0.4917647058823529
+mRNA decapping complex subunit 2_DI1100056_B,0.8029615384615384
+Histone-lysine N-methyltransferase NSD3_DI1000208_B,0.7722307692307692
+LANA_DI1020022_B,0.7488421052631579
+Histone-lysine N-methyltransferase NSD3_DI1000209_B,0.5589166666666666
+Pr180 Gag-Pro-Pol polyprotein_DI1020023_B,0.7517058823529412
+U1 small nuclear ribonucleoprotein 70 kDa_DI1110017_B,0.8128095238095238
+Outer membrane protein assembly factor BamC_DI1200006_C,0.15915988372093023
+Anti-sigma-E factor RseA_DI2210002_E,0.5915
+Heat shock cognate 71 kDa protein_DI1000210_B,0.8403333333333333
+ATP synthase subunit alpha  mitochondrial_DI1100057_B,0.66144
+ATP-dependent RNA helicase DOB1_DI2100006_C,0.7602
+Retinoblastoma-associated protein_DI2000018_E,0.6845454545454546
+Retinoblastoma-like protein 1_DI2000019_E,0.7539090909090909
+Tyrosine-protein phosphatase non-receptor type 22_DI1100061_B,0.8118
+DNA repair protein RAD9_DI1100063_B,0.7098461538461538
+Nuclear receptor corepressor 2_DI1000211_E,0.3004736842105263
+Nuclear receptor coactivator 2_DI1000212_B,0.5558095238095239
+Retinoblastoma-associated protein_DI1010069_A,0.8257999999999999
+Histone-binding protein N1/N2_DI1110020_A,0.9218636363636363
+Large T antigen_DI1120010_A,0.88996
+Serine/threonine-protein kinase PAK 3_DI1100065_C,0.7950555555555555
+Uncharacterized protein_DI1200007_A,0.73628
+Krev interaction trapped protein 1_DI1000217_B,0.7679666666666667
+Integrin beta-1_DI1000218_B,0.76
+Myeloid leukemia factor 1_DI2000020_P,0.7674285714285715
+Tumor necrosis factor receptor superfamily member 3_DI3000010_B,0.8655833333333334
+Mediator of RNA polymerase II transcription subunit 1_DI2010014_C,0.7078461538461538
+High affinity nerve growth factor receptor_DI1000219_B,0.7004166666666666
+Integrin beta-3_DI1000220_B,0.7000740740740741
+Serine/threonine-protein phosphatase 1 regulatory subunit 10_DI1010070_B,0.3013658536585366
+Programmed cell death activator egl-1_DI1100067_C,0.3788421052631579
+Nuclear factor erythroid 2-related factor 2_DI1100069_B,0.7321333333333333
+Flap endonuclease 1_DI3000011_B,0.69415
+Wiskott-Aldrich syndrome protein_DI1010074_C,0.7018620689655172
+Wiskott-Aldrich syndrome protein family member 2_DI1010075_C,0.41865625
+WAS/WASL-interacting protein family member 1_DI1010076_C,0.769
+Glutamate receptor 1_DI1100071_C,0.8590555555555555
+Acetyl-CoA carboxylase 1_DI1000223_I,0.8853076923076924
+Cell division control protein 6 homolog_DI2000022_E,0.7020833333333334
+Protein kinase C epsilon type_DI2000023_Q,0.39974193548387094
+Protein-arginine deiminase type-6_DI2000026_B,0.7917692307692307
+RAF proto-oncogene serine/threonine-protein kinase_DI2000028_P,0.8681111111111111
+Protein chibby homolog 1_DI2000029_C,0.8196111111111111
+Cystic fibrosis transmembrane conductance regulator_DI2000030_C,0.7344285714285714
+Cystic fibrosis transmembrane conductance regulator_DI2000031_C,0.8059499999999999
+Calpastatin_DI2100008_C,0.7912446808510638
+Calpastatin_DI2100009_C,0.37369767441860463
+Neurabin-2_DI1010077_C,0.3654610778443114
+Protein phosphatase 1 regulatory subunit 12A_DI1100072_B,0.1150969899665552
+Protein phosphatase 1 regulatory subunit 15A_DI1000224_B,0.47512499999999996
+Fibronectin-binding protein A_DI1020027_D,0.7190909090909091
+Fibronectin-binding protein A_DI1020028_B,0.8196666666666667
+Metastasis suppressor protein 1_DI1010078_C,0.718625
+MKL/myocardin-like protein 1_DI1110021_M,0.44034375
+Protein spire_DI1110022_S,0.6797894736842105
+Protein spire_DI1100073_S,0.692595744680851
+Nuclear factor erythroid 2-related factor 2_DI1000225_P,0.6541875
+Prothymosin alpha_DI1100075_B,0.9155625
+Sequestosome-1_DI1100076_B,0.8394285714285715
+Cellular tumor antigen p53_DI1020033_D,0.763
+Low density lipoprotein receptor adapter protein 1_DI1000234_P,0.5735
+Tyrosine-protein phosphatase non-receptor type 7_DI1010079_B,0.7438125
+Nuclear receptor-interacting protein 1_DI1000235_C,0.41731999999999997
+Peroxisome proliferator-activated receptor gamma coactivator 1-alpha_DI1000236_B,0.59275
+Nuclear receptor corepressor 1_DI2000033_N,0.3370526315789474
+TGF-beta-activated kinase 1 and MAP3K7-binding protein 1_DI1100078_B,0.8338620689655172
+MAP kinase-activated protein kinase 2_DI1000238_C,0.562125
+Nuclear factor of activated T-cells  cytoplasmic 3_DI1000239_B,0.7372142857142857
+MAP kinase-interacting serine/threonine-protein kinase 1_DI1000240_B,0.7532222222222222
+Netrin receptor DCC_DI1100079_B,0.7123333333333334
+Far upstream element-binding protein 1_DI1000241_B,0.35073076923076923
+ATP-dependent RNA helicase vasa  isoform A_DI1100080_C,0.71195
+Retinoblastoma-associated protein_DI1000242_C,0.6587692307692308
+Next to BRCA1 gene 1 protein_DI1000243_B,0.6376153846153846
+Beclin-1_DI2000034_B,0.6772758620689655
+BH3-interacting domain death agonist_DI1100083_B,0.2682941176470588
+Poly(A) RNA polymerase protein 2_DI1100084_B,0.83075
+Eukaryotic peptide chain release factor GTP-binding subunit ERF3B_DI1000244_B,0.6952666666666667
+Stonin-2_DI1000245_B,0.7774146341463415
+DNA ligase 1_DI3100003_B,0.6267727272727273
+Nuclear receptor corepressor 2_DI1000246_B,0.8130769230769231
+Induced myeloid leukemia cell differentiation protein Mcl-1_DI1000247_B,0.8238125000000001
+Histone deacetylase 4_DI1000248_B,0.7813529411764706
+Low-density lipoprotein receptor-related protein 2_DI1010081_B,0.780578947368421
+DNA-binding protein RFX5_DI1000249_B,0.7731764705882354
+Coiled-coil domain-containing protein 8_DI1000251_B,0.8109411764705882
+DNA-binding protein RFX7_DI1000252_X,0.7340588235294118
+Mitotic checkpoint serine/threonine-protein kinase BUB1 beta_DI1000253_C,0.8091756756756756
+Breast cancer type 2 susceptibility protein_DI1000254_X,0.6012105263157895
+Histone-lysine N-methyltransferase 2D_DI1000255_B,0.7683636363636364
+Histone-lysine N-methyltransferase 2A_DI1000256_B,0.6822307692307692
+Histone-lysine N-methyltransferase 2C_DI1000257_B,0.872909090909091
+Histone-lysine N-methyltransferase SETD1A_DI1000259_B,0.7879090909090909
+Histone-lysine N-methyltransferase SETD1B_DI1000260_B,0.746
+KAT8 regulatory NSL complex subunit 1_DI1000261_C,0.7721428571428571
+Non-specific lethal 1  isoform D_DI1100085_D,0.7436875000000001
+Tribbles homolog 1_DI1000262_U,0.7609090909090909
+Sesquipedalian-1_DI1000263_B,0.7069230769230769
+Zinc finger protein GLI1_DI1000264_B,0.8345882352941176
+Transcriptional activator GLI3_DI1020035_E,0.8353529411764706
+TERF1-interacting nuclear factor 2_DI2000035_B,0.7818
+5' exonuclease Apollo_DI2000036_E,0.4442222222222222
+Checkpoint serine/threonine-protein kinase BUB1_DI1100086_B,0.17641666666666667
+Spindle assembly checkpoint component MAD3_DI1100087_B,0.2096875
+Auxin-responsive protein IAA7_DI1100088_C,0.697076923076923
+Programmed cell death 6-interacting protein_DI1000265_C,0.750375
+Dystonin_DI2000037_E,0.9084333333333333
+Muscle  skeletal receptor tyrosine-protein kinase_DI1100089_E,0.7183846153846154
+APC/C-CDH1 modulator 1_DI1100090_N,0.6367142857142857
+Mitotic checkpoint serine/threonine-protein kinase BUB1 beta_DI1000268_C,0.7206956521739131
+Ankyrin repeat domain-containing protein A238L_DI2020003_C,0.370975
+Bcl-2-like protein 11_DI1100091_B,0.18036363636363636
+Bcl-2-like protein 11_DI1000269_B,0.3166111111111111
+Troponin I  cardiac muscle_DI1000270_B,0.6633
+Retinoblastoma-associated protein_DI1000272_C,0.7131875
+E3 ubiquitin-protein ligase NEDD4-like_DI1000274_B,0.6187857142857143
+Translocated intimin receptor Tir_DI1020036_L,0.72425
+Voltage-dependent calcium channel type A subunit alpha-1_DI1100092_a,0.8542666666666666
+Transcription factor E2F1_DI1000275_C,0.8827058823529412
+Stimulator of interferon genes protein_DI1000276_C,0.8020263157894737
+Mitochondrial antiviral-signaling protein_DI1000277_C,0.7454444444444444
+TIR domain-containing adapter molecule 1_DI1000278_B,0.810952380952381
+DNA repair protein RAD9_DI1100093_B,0.8031538461538461
+Hirudin variant-2 (Fragment)_DI2010015_I,0.5120769230769231
+Histone H4_DI1000281_C,0.8147619047619047
+Histone H3.1_DI1010085_D,0.83025
+cAMP-dependent protein kinase inhibitor alpha_DI1100095_I,0.7786500000000001
+Cadherin-1_DI1100096_D,0.7371721854304636
+Splicing factor 3B subunit 1_DI1000291_P,0.48348837209302326
+FUN14 domain-containing protein 1_DI1000296_B,0.725
+Beta-secretase 1_DI1000300_C,0.6556666666666667
+Mitotic checkpoint serine/threonine-protein kinase BUB1 beta_DI1000301_B,0.7257368421052631
+KAT8 regulatory NSL complex subunit 2_DI1000303_C,0.8125833333333333
+Dim gamma-tubulin 1  isoform A_DI1100098_C,0.8395
+Androgen receptor_DI1000304_B,0.7400000000000001
+Nuclear cap-binding protein subunit 1_DI1100099_C,0.8939565217391304
+ADP-ribosylation factor-binding protein GGA1_DI1000305_P,0.8326153846153846
+Serine/threonine-protein kinase PAK 4_DI1000306_I,0.6854571428571429
+Eukaryotic translation initiation factor 4 gamma 1_DI1000307_E,0.5843571428571428
+Vesicle-associated membrane protein 2_DI1020038_C,0.3956388888888889
+Ribonuclease E_DI1200008_D,0.8850243902439024
+Protein BUD31 homolog_DI1000309_B,0.4471333333333333
+Nuclear receptor coactivator 3_DI1000313_B,0.5501666666666667
+Nuclear receptor coactivator 3_DI1000314_B,0.6055
+Nuclear receptor coactivator 4_DI1000315_B,0.4957333333333333
+Colicin-E9_DI1200009_L,0.9305882352941177
+Protein Tat_DI2020004_C,0.5266744186046511
+PCNA-associated factor_DI3000012_D,0.7010000000000001
+Serine/threonine-protein kinase PAK 4_DI1000316_B,0.69184
+Dual specificity mitogen-activated protein kinase kinase 6_DI1000318_B,0.8190714285714286
+SH3 domain-binding protein 2_DI1000319_E,0.837
+JNK-interacting protein 1_DI1100100_M,0.8107333333333333
+Protein phosphatase 1 regulatory subunit 15B_DI1010091_B,0.4679
+Histone H3.1_DI1000322_I,0.8514999999999999
+Protein jagged-1_DI1000325_C,0.7980909090909091
+Protein lin-52 homolog_DI1010092_E,0.60005
+Anti-sigma-E factor RseA_DI2200006_E,0.5603958333333333
+Uncharacterized protein C18G6.09c_DI2100010_C,0.8043076923076923
+ATP-dependent molecular chaperone HSP82_DI1100102_Q,0.8455833333333334
+Nibrin_DI2000044_H,0.7799375000000001
+Histone H3.1_DI1000331_B,0.6538666666666667
+Translocator protein_DI1200015_B,0.7675454545454545
+Invasin IpaB_DI2200008_Q,0.7953181818181818
+Nanos homolog 1_DI1000332_B,0.4904117647058823
+LD07709p_DI1100103_B,0.5380555555555556
+4E-binding protein THOR_DI1100104_B,0.6898823529411765
+Eukaryotic translation initiation factor 4G  isoform A_DI2100011_B,0.5142191780821919
+Histone deacetylase 5_DI1010096_D,0.5710000000000001
+Synaptic functional regulator FMR1_DI1010097_D,0.3211333333333333
+Protein diaphanous homolog 3_DI1010098_D,0.2452666666666667
+Cell division cycle 7-related protein kinase_DI1010099_D,0.4522777777777778
+Amyloid beta A4 precursor protein-binding family A member 3_DI1010100_D,0.40705555555555556
+Outer membrane virulence protein YopE_DI2210003_I,0.5586521739130434
+Secreted effector protein SptP_DI2200009_E,0.09251428571428572
+Uncharacterized protein_DI1210007_A,0.3304230769230769
+Stage II sporulation protein SB_DI2200010_B,0.5359464285714285
+ExsE_DI2200011_T,0.6006060606060606
+Exoenzyme T_DI2200012_A,0.49888
+Type III effector HopA1_DI1200016_B,0.29704878048780486
+Tyrosine-protein phosphatase YopH_DI1210008_B,0.6180232558139535
+Regulatory protein YscM2_DI1210009_B,0.30812244897959185
+Pre-mRNA leakage protein 1_DI1100106_B,0.6910869565217391
+Telomere length regulator protein RIF1_DI1100107_D,0.59895
+Neural Wiskott-Aldrich syndrome protein_DI1010101_D,0.5653333333333334
+cAMP-dependent protein kinase inhibitor alpha_DI1010103_I,0.718
+Uncharacterized protein_DI1210010_A,0.30343548387096775

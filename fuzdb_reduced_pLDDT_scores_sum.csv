@@ -1,0 +1,326 @@
+ID,metapredict_scores
+nucleoplasmin NLS_FC00001_155-170,72.48952
+SV40 NLS_FC00002_126-132,77.46851553672317
+Heat shock protein 90 TRP_FC00003_727-732,83.58585519125683
+T-cell factor 4 (Tcf4) catenin binding domain_FC00004_23-29,50.607791599353796
+Dihydropyridine receptor (DHPR)_FC00005_724-760,62.88145969599263
+Cystic fibrosis transmembrane conductance regulator (CFTR) channelregulatory (R) domain_FC00006_654-838,75.97631621621622
+Protein phosphatase inhibitor 2 (I-2)_FC00007_1-11,66.39531553398058
+Sterile 5 protein (Ste5)_FC00008_298-305,64.32853107960742
+Octamer binding factor 1 (Oct-1)_FC00009_355-379,48.408978465679674
+Cellulase E (chimera)_FC00010_65-116,89.11402011494253
+Myosin VI_FC00011_840-920,77.99336842105262
+Kinase inducible domain of CREB_FC00012_101-120,60.956296636085625
+Heat-shock protein 25 (Hsp25)_FC00013_192-209,64.71864593301436
+αA-crystallin_FC00014_163-173,69.02483815028901
+Measles virus nucleoprotein_FC00015_517-525,67.61664380952381
+RNA polymerase II C terminal domain_FC00016_1451-1733,77.46194056549336
+Proline rich peptides RLP1_FC00017_267-277,65.84758627858628
+IA3 polypeptide_FC00018_33-68,72.32967647058823
+Splicing factor 1 (SF1)_FC00019_1-12,66.51638184663537
+Fibronectin binding protein (FnBP) SfbI_FC00020_475-590,58.4785564263323
+Promoter specific factor 1 (SP1) B domain_FC00021_457-480,39.46787643312102
+Elastin_FC00022_1-747,44.09577108433734
+T cell receptor ζ chain_FC00023_61-159,64.71793902439025
+GCN4 transcription factor_FC00024_87-152,62.9067153024911
+EWS transcription factor_FC00025_1-287,52.22527591463415
+Gal4 transcription factor_FC00026_148-881,67.13833371169126
+H1<sup>0</sup> linker histone_FC00027_98-194,69.01832989690722
+Ure2_FC00028_1-89,81.04025706214689
+Sup35_FC00029_1-114,70.99528467153284
+Ribonuclease (RNase I)_FC00030_39-43,83.79417948717949
+Thymosine β4_FC00031_13-43,68.38231818181818
+Ciboulot_FC00032_25-58,66.77927131782945
+Myelin basic protein (MBP)_FC00033_15-24,53.42298
+L7/L12 ribosomal protein_FC00034_32-51,78.12504958677685
+UPF2_FC00035_1130-1166,72.4633215408805
+p27<sup>Kip1</sup>_FC00036_105-198,62.44680808080808
+Adenomatous polyposis coli protein (APC)_FC00037_1499-1528,44.29435807245867
+E-cadherin_FC00038_636-653,79.38549095022626
+Ebola virus nucleoprotein_FC00039_439-492,72.05067658998647
+Cyclin-dependent kinase inhibitor Sic1_FC00040_1-90,60.004
+UmuD&#39;2_FC00041_25-37,92.60847482014388
+Protein Max_FC00042_1-18,78.17806875
+Methyl CpG binding protein 2 (MeCP2)_FC00043_1-75,57.19472016460905
+Thymine-DNA glycosylase (TDG)_FC00044_340-410,67.79231707317072
+Neurogenin 1 (NGN1)_FC00045_90-104,66.49054430379746
+Aplysia LAPS18-like protein (ApLLP)_FC00046_1-11,71.38008333333333
+Ets-1 transcription factor_FC00047_244-300,60.16043181818182
+Single-stranded DNA binding protein (SSB)_FC00048_113-177,71.88187640449438
+Positive cofactor 4 (PC4)_FC00049_1-60,72.02553543307087
+Facilitates chromatin transcripton (FACT)_FC00051_1-186,75.12687690179806
+High-mobility protein group B1 (HMGB1)_FC00052_186-215,79.32257209302325
+Homeotic protein ultrabithorax (Ubx)_FC00053_1-216,56.2826940874036
+NK2 homeodomain (NKX3.1)_FC00054_86-95,46.30011756569848
+Peroxisome proliferator-activated receptor gamma (PPAR-γ)_FC00055_9-110,76.96109306930693
+DNA helicase II UvrD_FC00056_645-720,90.90413333333333
+Telomere-binding protein subunit β_FC00057_224-385,69.35636363636364
+Plasmid partition protein KorB_FC00058_253-293,76.68020391061452
+Plasmid partition protein ParB_FC00059_271-274,75.73060060060061
+Replication protein A (RPA)_FC00060_106-180,73.44685925925926
+iκBα_FC00062_67-206,79.62308201892745
+Nonstructural protein 5A (NS5A)_FC00064_200-228,66.28917701760213
+preS1 Hepatitis B virus_FC00065_11-44,54.58255505617978
+Nucleoprotein Ntail (N)_FC00066_464-473,74.54050939849624
+Nucleoprotein Ntail (N)_FC00067_464-473,75.10345112781955
+Vesicle associated membrane protein C (VAPC)_FC00068_1-60,73.53433744855967
+p65 (RelA)_FC00069_425-439,67.08032422586521
+Nucleophosmin (NPM1)_FC00070_225-242,70.10395918367347
+Leucine-rich repeat-containing protein 16A (LRRC16A)_FC00071_1005-1020,67.07342231947483
+Eukaryotic translation initiation factor 4E -binding protein 2 (4E-BP2)_FC00072_1-53,64.537625
+Cup_FC00073_1-317,50.2313115487914
+c-Myc_FC00074_1-88,60.400580865603644
+Prothymosin α (ProT α)_FC00075_1-29,53.95026126126126
+NF-E2-related factor 2 (Nrf2)_FC00076_41-51,59.53015745393635
+AP180_FC00077_623-680,52.82327635960044
+Anhydrin_FC00078_1-86,64.41679069767441
+α-Synuclein_FC00080_26-97,61.329971428571426
+Dynein intermediate chain (IC)_FC00081_48-87,71.40573001508297
+Calmodulin_FC00082_73-85,82.71128187919463
+Adenovirus early region 1A (E1A) oncoprotein_FC00083_82-121,63.521723183390996
+p53 TAD_FC00084_27-39,71.43499236641222
+Immunoglobulin-like B protein (LigB)_FC00085_1119-1165,79.83572631021705
+p21<sup>Cip1</sup> cyclin-dependent kinase inhibitor (p21<sup>WAF1/CIP1</sup>)_FC00086_27-48,58.3447256097561
+Methyl-CpG binding domain protein 2 (MBD2) of nucleosome remodeling and deacytelase complex (NurD) (NurD MBD2)_FC00087_212-273,65.73495863746959
+PCNA-associated factor  p15<sup>PAF</sup>_FC00088_2-50,59.05887387387387
+MAPK kinase 7 (MKK7)_FC00090_37-100,82.6472693208431
+Ribosomal protein S6 kinase alpha-1 (RSK1)_FC00091_681-696,83.39737142857143
+p62_FC00092_168-388,64.58817499999999
+AF9  ANC1 Homology Domain (AHD) _FC00093_515-519,56.89855633802817
+AF4 elongation factor_FC00094_738-767,49.58168842975207
+Postsynaptic density 95 (PSD-95) PDZ3_FC00095_403-429,76.5306270718232
+Adaptor protein Nck_FC00096_81-110,67.34481167108753
+Fused in Sarcoma (FUS)_FC00097_1-163,54.5995494296578
+Nup153_FC00098_1313-1390,44.673871186440685
+Nsp1_FC00099_274-397,51.749165249088705
+Osteopontin (OPN)_FC00100_90-120,55.05685984848485
+Calvin cycle protein CP12_FC00101_1-50,75.10215887850467
+ORF57_FC00102_81-92,66.86874100719425
+ALYREF_FC00103_24-48,68.60156422018349
+Gelatinase-associated lipocalin receptor (LCN2-R  SLC22A17)_FC00104_1-105,75.95766914498142
+Merozoite surface protein 2 (MSP2) FC27_FC00106_24-30,51.33235
+Merozoite surface protein 2 (MSP2) 3D7_FC00107_24-30,51.101783088235294
+Bd0108_FC00108_24-101,59.72612871287129
+MAPK kinase MKK4 _FC00109_49-62,80.01731829573934
+Knob-associated Histidine-rich Protein (KAHRP)_FC00110_356-470,48.013910094637225
+Transcription factor p65_FC00111_291-316,68.88753176043556
+CREB-binding protein_FC00113_453-465,53.15177886977887
+Histone H3.1_FC00115_2-13,83.147
+Transcription activator BRG1_FC00119_634-677,65.31605525197328
+E3 ubiquitin-protein ligase UHRF1_FC00120_237-252,78.66759520807062
+Activating transcription factor 7-interacting protein 1_FC00121_183-204,48.76377480314961
+Tyrosine-protein kinase Fyn_FC00122_122-136,79.96147299813781
+Small ubiquitin-related modifier 3_FC00123_1-92,78.5528640776699
+Histone-lysine N-methyltransferase 2A_FC00125_2839-2869,41.69884630889393
+Heat shock protein HSP 90-beta_FC00127_45-55,84.61636187845303
+Serine/threonine-protein kinase PAK 1_FC00129_183-204,70.71500183486238
+Eukaryotic initiation factor 4F subunit p150_FC00130_398-488,57.090198529411765
+Microtubule-associated protein tau_FC00131_91-104,46.51660686015832
+Cell division control protein 42 homolog_FC00132_1-179,90.0881832460733
+Double-stranded RNA-binding protein Staufen homolog 1_FC00134_20-577,65.66665511265165
+Chromodomain-helicase-DNA-binding protein 4_FC00135_228-241,64.65045135983263
+Coatomer subunit alpha_FC00136_1-1224,84.60280555555556
+Nuclear pore complex protein Nup205_FC00137_9-1692,80.2332644135189
+60S acidic ribosomal protein P2_FC00138_1-114,67.02250434782609
+SUMO-conjugating enzyme UBC9_FC00140_1-118,96.04262658227849
+Histone-lysine N-methyltransferase NSD3_FC00141_593-605,63.736866388308975
+Heat shock protein beta-1_FC00142_3-176,60.25757073170732
+Cytoplasmic polyadenylation element-binding protein 1_FC00143_235-321,65.51427561837455
+Apolipoprotein A-I_FC00144_25-54,82.27737078651685
+E3 ubiquitin-protein ligase RNF4_FC00146_21-194,66.23919072164949
+Proheparin-binding EGF-like growth factor_FC00147_2-12,70.56464903846154
+DNA-directed RNA polymerase II subunit RPB1_FC00149_456-490,73.82323553299493
+Geminin_FC00150_1-115,67.40273205741627
+Collagen alpha-1(I) chain_FC00151_70-168,53.600618852459014
+Synaptic functional regulator FMR1_FC00153_2-17,67.224792721519
+26S proteasome non-ATPase regulatory subunit 4_FC00154_196-307,73.58190716180371
+Serine/threonine-protein kinase 38_FC00157_62-87,82.32615698924731
+F-actin-capping protein subunit alpha-1_FC00158_1-38,93.3778076923077
+Maternal effect protein staufen_FC00160_9-29,57.34731384015594
+U1 small nuclear ribonucleoprotein A_FC00161_1-130,75.32146453900708
+Tyrosine-protein kinase SYK_FC00162_334-502,84.32091653543307
+Forkhead box protein O3_FC00164_460-483,46.991301634472514
+Protein Tat_FC00166_44-60,69.17846511627907
+Eukaryotic elongation factor 2 kinase_FC00167_1-178,75.20642344827586
+Oxysterol-binding protein 1_FC00169_37-161,77.1876332094176
+Tegument protein VP16_FC00170_188-200,69.06651224489796
+Gag-Pol polyprotein_FC00173_211-255,81.67124913693901
+E3 ubiquitin-protein ligase NEDD4-like_FC00174_2-9,70.70000410256411
+Epstein-Barr nuclear antigen 2_FC00175_479-487,54.205882956878845
+Amiloride-sensitive sodium channel subunit alpha_FC00176_43-101,74.1265754857997
+Epidermal growth factor receptor_FC00177_57-71,74.94695041322314
+DNA repair protein RAD2_FC00178_231-246,58.77402424830262
+RAF proto-oncogene serine/threonine-protein kinase_FC00179_56-187,68.88443055555555
+PHD finger protein 12_FC00181_2-90,52.80691135458168
+Cadherin-5_FC00182_661-680,76.71120280612244
+BCL2/adenovirus E1B 19 kDa protein-interacting protein 3_FC00183_48-140,57.558146718146716
+Brinker_FC00184_379-424,51.605126420454546
+Lymphocyte cytosolic protein 2_FC00185_528-533,62.21207879924953
+RNA-binding protein PIN4_FC00186_391-488,51.761537425149704
+Receptor tyrosine-protein kinase erbB-2_FC00187_644-700,71.3891641434263
+DNA repair protein RAD9_FC00189_149-161,52.02229946524064
+Uracil-DNA glycosylase_FC00190_55-68,81.1009392971246
+Wiskott-Aldrich syndrome protein_FC00191_56-187,67.32996613545818
+Middle T antigen_FC00192_143-148,66.09480049875312
+Cytotoxic T-lymphocyte protein 4_FC00193_200-223,72.38736771300448
+Phosphatidylinositol 3-kinase regulatory subunit alpha_FC00194_321-331,79.80641574585636
+Signal transducer and activator of transcription 6_FC00199_10-26,72.94587131050767
+Histone acetyltransferase RTT109_FC00201_186-200,82.12087385321101
+Alkaline phosphatase_FC00202_1-471,92.44777070063695
+AP-2 complex subunit mu_FC00207_65-123,90.74658620689655
+Programmed cell death protein 1_FC00208_71-151,73.15897916666667
+Chaperone protein DnaJ 2_FC00209_1-280,89.20416785714286
+Insulin_FC00210_25-105,57.11309523809524
+Core protein_FC00211_1-99,80.45315834063688
+C-C motif chemokine 5_FC00212_24-91,80.05437362637363
+60 kDa chaperonin_FC00213_97-163,93.92631386861315
+Histone H2A type 1-B/E_FC00214_34-124,88.8437076923077
+Nitric oxide synthase  inducible_FC00216_151-163,83.36353686036426
+Maltose/maltodextrin-binding periplasmic protein_FC00218_108-149,92.78430808080809
+STAM-binding protein_FC00219_2-102,82.41408254716983
+Nucleoporin p54_FC00220_34-50,72.21150493096647
+Nuclear pore glycoprotein p62_FC00221_334-502,58.8287816091954
+Nuclear pore complex protein Nup93_FC00222_1-815,83.38097191697192
+60S acidic ribosomal protein P1_FC00223_44-60,67.75564035087719
+Conotoxin CcTx_FC00224_1-30,62.6853
+Major sperm protein isoform alpha_FC00226_2-127,91.28648818897638
+Myosin essential light chain  striated adductor muscle_FC00227_5-155,88.75317197452229
+Maltoporin_FC00228_1-446,90.6366076233184
+Histone H4_FC00230_2-28,87.2514854368932
+Histone H3_FC00233_2-16,83.59896323529412
+Heterokaryon incompatibility protein s_FC00235_116-149,86.20197577854671
+Penicillinase repressor_FC00237_8-24,86.722625
+Kappa-bungarotoxin_FC00238_22-87,79.95164367816092
+BRCA1-A complex subunit RAP80_FC00240_20-123,53.843075104311545
+Gap junction alpha-1 protein_FC00241_109-156,69.91687958115183
+Nitric oxide synthase  endothelial_FC00242_1-101,83.0049102244389
+SH3 domain-containing kinase-binding protein 1_FC00243_9-665,58.21186616541354
+TrfB transcriptional repressor protein_FC00244_1-101,90.57728712871288
+Vesicle-associated membrane protein 2_FC00245_2-18,76.57784482758622
+Non-structural protein S_FC00246_58-68,84.57170188679245
+V-Ki-ras2 Kirsten rat sarcoma viral oncogene homolog  isoform CRA_b_FC00247_1-185,91.33586170212766
+Rhomboid protease GlpG_FC00248_1-117,89.8450615942029
+Tumor necrosis factor receptor superfamily member 16_FC00249_2-90,68.15652
+RNA-binding protein ASD-1_FC00250_1-61,63.495663366336636
+RRM domain-containing protein_FC00251_2-148,64.51777016129031
+Gag polyprotein_FC00252_141-151,75.753054
+CDC48_2 domain-containing protein_FC00253_2-148,85.77777702702703
+Protein S100-A6_FC00255_1-90,79.99855555555555
+DNA repair protein RAD4_FC00256_20-34,70.76633421750662
+Neurotensin receptor type 1_FC00257_24-91,78.90653827751196
+ATP-dependent molecular chaperone HSP82_FC00260_145-171,84.31402961918194
+Envelope glycoprotein_FC00261_1-59,84.24171186440677
+Rho GTPase-activating protein 7_FC00262_279-390,54.16120615183247
+Arf-GAP with Rho-GAP domain  ANK repeat and PH domain-containing protein 3_FC00263_98-176,69.9055207253886
+Ubiquitin-like modifier-activating enzyme ATG7_FC00264_59-85,90.18260793650794
+L0052_FC00265_50-106,84.53090654205609
+Histone H3_FC00266_90-104,82.061296
+Double-stranded RNA-specific editase 1_FC00267_1-52,73.35631504922644
+Cardiac phospholamban_FC00270_1-52,79.55903846153845
+Protein polybromo-1_FC00271_128-493,72.1218294849023
+Protachykinin-1_FC00272_58-81,67.86558914728683
+Micrococcal nuclease_FC00274_62-87,83.21958149779736
+Tegument protein VP16_FC00275_25-93,69.0724244897959
+Myosin light chain kinase  smooth muscle_FC00276_2-149,65.16878226652675
+C-X-C chemokine receptor type 4_FC00277_1-38,81.71448295454546
+Suppressor of cytokine signaling 3_FC00278_2-16,76.15071555555555
+Protein doublesex_FC00279_201-219,55.13587431693989
+Bifunctional protein PutA_FC00280_1-69,91.11975893536122
+Embryonic polyadenylate-binding protein 2-B_FC00281_1-180,72.34683027522937
+HTH-type transcriptional regulator CmtR_FC00282_2-118,83.14498305084746
+Capsid protein p27  alternate cleaved 1_FC00284_60-180,71.39106704707561
+Signal recognition particle 54 kDa protein  chloroplastic_FC00285_507-531,75.33406028368795
+Forkhead box protein D3_FC00286_36-101,70.7229801980198
+Pancreatic hormone_FC00287_1-36,80.87405555555556
+Protein HEXIM1_FC00288_74-359,64.06251253481894
+Tropomyosin alpha-1 chain_FC00289_1-281,92.77196126760563
+Cytochrome c-552_FC00291_16-131,88.43793129770992
+Tyrosine-protein kinase_FC00292_190-222,84.71843140495868
+Interleukin-6 receptor subunit beta_FC00293_265-276,70.54047873500545
+BH3-interacting domain death agonist_FC00294_8-43,75.59966153846153
+Homeotic protein bicoid_FC00295_1-59,51.62327125506073
+Erythroid transcription factor_FC00296_200-238,60.96005084745763
+Carbon storage regulator_FC00298_1-61,81.86003278688524
+Lantibiotic nisin-Z_FC00299_2-57,66.29940350877193
+Plastocyanin_FC00300_1-64,90.30845323741008
+Plastocyanin A  chloroplastic_FC00301_70-168,75.55240476190477
+Stress-response A/B barrel domain-containing protein At5g22580_FC00302_1-111,89.55449549549549
+Ribonucleoside-diphosphate reductase 1 subunit alpha_FC00303_701-709,90.8280565045992
+Troponin I  cardiac muscle_FC00305_129-164,82.82195714285714
+C-C motif chemokine 7_FC00307_24-99,81.43185858585859
+Src kinase-associated phosphoprotein 2_FC00308_314-326,73.94096089385475
+Transforming growth factor beta-1 proprotein_FC00309_279-390,82.7398794871795
+Neuronal acetylcholine receptor subunit alpha-7_FC00310_247-265,83.18802788844621
+Sensor histidine kinase EnvZ_FC00312_2-450,81.94477777777779
+C-X-C chemokine receptor type 1_FC00313_5-350,85.82666857142857
+M-phase inducer phosphatase 3_FC00314_24-57,54.38194755244755
+DNA-binding protein HU_FC00315_1-90,75.50451111111111
+Transcription termination factor nun_FC00316_2-112,86.89625892857143
+Protein Rev_FC00318_7-29,65.10411111111111
+Serine/threonine-protein kinase PAK 3_FC00319_65-92,69.6249320214669
+Ferredoxin-1_FC00320_5-59,69.74549152542373
+Protein Tat_FC00322_22-47,58.37307766990291
+Nitric oxide synthase  brain_FC00323_68-265,80.41916515045486
+Protein son of sevenless_FC00324_14-97,67.22578007518797
+Proline utilization trans-activator_FC00325_31-100,68.79893564862104
+Homeotic protein antennapedia_FC00326_217-289,53.82667512690355
+Acetylcholine receptor subunit alpha_FC00327_196-306,87.52627331887201
+Phorbol-12-myristate-13-acetate-induced protein 1_FC00329_68-93,75.20583495145631
+Potassium voltage-gated channel subfamily KQT member 2_FC00330_326-372,58.069277522935785
+cAMP-dependent protein kinase inhibitor alpha_FC00331_30-54,65.84605263157896
+cAMP-dependent protein kinase type II-alpha regulatory subunit_FC00332_1-45,81.89327680798004
+Cell division topological specificity factor_FC00333_1-81,76.58750574712644
+Vacuolar protein sorting-associated protein VTA1_FC00335_1-167,71.72848181818182
+DNA-Binding protein G5P_FC00336_1-87,92.85211494252873
+Cytoplasmic dynein 1 intermediate chain 2_FC00337_134-154,77.51254702194358
+ATPase inhibitor  mitochondrial_FC00338_69-109,76.22191743119267
+Alpha-bungarotoxin_FC00339_22-95,80.73627368421053
+Tumor protein 63_FC00340_397-455,61.3083294117647
+Transcription factor HES-1_FC00341_27-95,68.37012142857142
+Tumor necrosis factor receptor superfamily member 10B_FC00343_208-242,69.79820454545454
+Pulmonary surfactant-associated protein D_FC00346_220-257,64.87408533333333
+Bromelain inhibitor_FC00347_172-182,77.86220325203251
+AP-1-like transcription factor YAP1_FC00348_279-313,53.36336461538461
+Lactose operon repressor_FC00349_1-62,89.64370277777778
+Putative secreted protein_FC00350_1-96,85.97992708333334
+Growth-regulated alpha protein_FC00352_35-106,76.37641121495327
+Integrin alpha-IIb_FC00353_991-1039,86.29405678537054
+Ryanodine receptor 2_FC00355_3561-3572,71.02497375328085
+Immunoglobulin G-binding protein G_FC00356_303-359,82.92909612141652
+Envelope glycoprotein gp160_FC00357_677-788,72.23522897196261
+HMG box-containing protein 1_FC00360_358-380,61.53604457364341
+Cytoplasmic protein NCK2_FC00362_192-262,74.28896315789474
+Protein S100-B_FC00364_1-92,82.41048913043478
+Amyloid-beta precursor protein_FC00365_699-726,67.23604675324675
+Ubiquitin-40S ribosomal protein S27a_FC00366_1-76,81.36820512820513
+Putative antitoxin VapB21_FC00367_1-61,78.75840983606557
+Transcriptional repressor p66-alpha_FC00368_137-178,56.67361295418641
+Syndecan-4_FC00372_171-198,62.011989898989896
+Tumor necrosis factor receptor superfamily member 6_FC00373_167-193,74.88021712538226
+Platelet factor 4_FC00374_38-101,74.38251485148515
+BM2_FC00375_26-109,72.70668807339449
+Golgi-associated PDZ and coiled-coil motif-containing protein_FC00376_286-370,75.86564502164502
+Antitoxin CcdA_FC00377_1-72,86.41594444444445
+Cbp/p300-interacting transactivator 2_FC00378_220-269,51.81578888888889
+UV-stimulated scaffold protein A_FC00379_390-434,72.84450493653033
+Transcription factor E2-alpha_FC00380_1-37,51.37442048929663
+Partner and localizer of BRCA2_FC00381_1-60,54.477076992753624
+Krueppel-like factor 1_FC00382_2-40,58.215035911602214
+Matrix protein 2_FC00383_18-60,68.29753608247422
+Pro-glucagon_FC00384_53-81,70.73922777777777
+Translational regulator CsrA1_FC00385_1-59,79.116328125
+Polyubiquitin-B_FC00386_153-228,94.51600436681223
+Toll-like receptor 3_FC00387_698-730,83.95506637168143
+TSC22 domain family protein 3_FC00388_1-77,83.92470129870131
+Glycophorin-A_FC00389_81-120,61.88596666666667
+C-C chemokine receptor type 5_FC00390_1-27,82.71567897727273
+Troponin C  skeletal muscle_FC00391_94-127,82.25707975460124
+Histone chaperone RTT106_FC00393_1-67,75.77929670329671
+Lysosome-associated membrane glycoprotein 2_FC00394_369-410,80.02406097560976
+Metabotropic GABA-B receptor subtype 1_FC00395_751-802,82.46531666666667
+Growth hormone receptor_FC00398_254-294,57.64387460815047
+High mobility group protein D_FC00400_1-74,75.12448214285713
+Eukaryotic peptide chain release factor GTP-binding subunit ERF3A_FC00401_73-94,74.8609968553459
+Transmembrane emp24 domain-containing protein 10_FC00402_207-219,85.35968036529681
+Protein Vpr_FC00403_52-96,71.54920833333334
+Glycoprotein hormones alpha chain_FC00404_25-116,86.78406034482758
